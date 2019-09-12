@@ -28,6 +28,10 @@ public class thing {
 
 
 }
-
+int k = 4;
+for(int i = 0; i < k; i++){
+	k--;
+	for(int j = 0)
+}
 
 }
