@@ -18,6 +18,7 @@ public class Thing {
    lineMix();
    starLineOne();
    starLineOne();
+   out.println('m' - 0);
 
   }
 public void starLineOne(){
