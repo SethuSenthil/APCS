@@ -1,2 +1,2 @@
 # APCS
- AP CS shit
+ AP CS with Mr.Miller at South Brunswick Highschool
